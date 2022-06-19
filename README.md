@@ -1,13 +1,4 @@
-### Chapter 08 Challenge, FSW 5 - Kelompok 1
-
-## Team:
-
-1. Muhammad Azis
-2. Iqbal Ikhlasul Amal
-3. Hafizh Hasan Alauddin Rabbani
-4. Muhammad Bilal Athallah
-5. Irfan Nada Bayu Samudera
-
+### Challenge Chapter 8 Deka Mersandi
 ## How to use?
 
 1. Clone this repository
